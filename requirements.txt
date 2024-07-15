@@ -60,9 +60,8 @@ pydeck==0.9.1
 Pygments==2.18.0
 pyparsing==3.0.7
 pyrsistent==0.18.1
-python-dateutil==2.8.2
 pytz==2024.1
-pywin32==303
+python==1.21.2
 pywinpty==2.0.2
 pyzmq==22.3.0
 qtconsole==5.2.2
